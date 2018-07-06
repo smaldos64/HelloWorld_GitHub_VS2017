@@ -16,6 +16,7 @@ namespace HelloWorld_GitHub
             Console.WriteLine("2");
 
             Console.WriteLine("Version 1 af SW i mit Projekt");
+            Console.WriteLine("Nu skal vi snart på Sommerferie !!!");
             Console.WriteLine("Laver en Push på Master Branch for at tvinge synkronisering med oprettet DevBranch på GitHub");
 
         }
