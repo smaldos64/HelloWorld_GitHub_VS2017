@@ -11,7 +11,12 @@ namespace HelloWorld_GitHub
         static void Main(string[] args)
         {
             Console.WriteLine("Github Projekt oprettet i GitHub ved projekt start !!!");
+
+            Console.WriteLine("1");
+            Console.WriteLine("2");
+
             Console.WriteLine("Laver en Push på Master Branch for at tvinge synkronisering med oprettet DevBranch på GitHub");
+
         }
     }
 }
